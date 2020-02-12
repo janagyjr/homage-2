@@ -16,11 +16,13 @@
 - Farming for Blockheads 6.1.0  
 - Fast Leaf Decay v20  
 - Gravestone 1.17.2  
+- Industrial Agriculture 1.5.4  
 - JEI 6.0.0.2
 - Klee Slabs 8.0.0  
 - Lost Cities 3.0.0-alpha  
 - McJty Lib 4.0.1-alpha  
 - MouseTweaks 2.13  
+- Mystical Agradittions 3.0.0  
 - Mystical Agriculture 3.0.0  
 - Ore Excavation 1.7.149  
 - ReAuth 3.8.0  
