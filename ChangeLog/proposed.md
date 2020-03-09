@@ -1,4 +1,34 @@
 # Homage 2  
+## Pre-Alpha Release 2  
+### Version 0.0.2  
+### Mods Updated  
+- Biomes O' Plenty (10.0.0.317-universal > 10.0.0.349-universal)  
+- Crafting Station (3.0.4 > 3.0.5)  
+- Craft Tweaker (1.15.1-6.0.0.5 > 1.15.2-6.0.0.9)  
+- Gravestone (1.17.2 > 1.17.3)  
+- Industrial Agriculture (1.5.4 > 1.6.4)  
+- Inventory Tweaks (1.0.0 > 1.0.1)  
+- McJty Lib (4.0.1-alpha > 4.0.2-alpha)  
+- Macaw's Bridges (1.0.3 > 1.0.4fix)  
+- Ore Excavation (1.7.149 > 1.7.151)  
+- Reap (1.12.1 > 1.12.2)  
+- RFTools Storage (1.0.1-alpha > 1.0.2-alpha)  
+- Snad (1.8.3.3a > 1.8.4.22a)  
+- The One Probe (2.0.0_1 > 2.0.1)  
+- XNet (2.0.0-alpha > 2.0.1-alpha)  
+
+###Mods Removed  
+- Xaeros' Minimap  
+- Xaeros' World Map  
+
+### Mods Added  
+- ProjectE PE1.0.2B  
+- JourneyMap  5.7.0beta1
+
+###Config Changes  
+- ProjectE: Custom EMC Values  
+- Biomes O' Plenty: Set default world type in SSP  
+
 ## Pre-Alpha Release  
 ### Version 0.0.1  
 ### Mods Updated  
